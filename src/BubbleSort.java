@@ -8,7 +8,7 @@ public class BubbleSort extends SortingUtility
 			{
 				if (array[j] > array[j + 1])
 				{
-					swap(array,array[j],array[j+1]);
+					swap(array, array[j], array[j + 1]);
 				}
 			}
 		}
